@@ -18,8 +18,8 @@ app_logs.jsonl
 
 test.html
 
-/__pycache__
+# Python cache
+__pycache__/
 
-/.vscode
-
-.gitignore
+# VS Code settings
+.vscode/
