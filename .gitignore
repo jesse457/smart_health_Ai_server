@@ -17,3 +17,7 @@ app_logs.jsonl
 /user_models
 
 test.html
+
+/__pycache__
+
+/.vscode
